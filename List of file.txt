@@ -1,0 +1,22 @@
+List of file.txt
+
+Moviedb.php  
+viewmovie.php
+viewrelease.php
+viewactor.php
+actorreportbyyr.php
+actorreportbyrating.php
+actorreportbygenre.php
+moviereportbyyr.php
+moviereportbygenre.php
+moviereportbyrating.php
+singleactorbygenre.php
+singleactorbyyear.php
+singleactorbyrating.php
+releaseresport.php
+insertactor.php
+insertmovie.php
+insertgenre.php
+updateactor.php
+updatemovie.php
+updategenre.php
